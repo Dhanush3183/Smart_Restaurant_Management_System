@@ -194,7 +194,7 @@ Password : Password123
 
 -----------------------------------------------
 
-Team - RTD Techies
+Team - RTD Techies | 
 Full-Stack Developer | Hyderabad, Telangana, IN | 
 📧 dhanushpaidi9@gmail.com
 📧 vermanishtha3@gmail.com
