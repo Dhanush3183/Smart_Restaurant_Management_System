@@ -2,11 +2,15 @@
 An advanced full-stack web application designed to streamline restaurant operations — from order management to billing — using modern technologies.
 Built with Spring Boot, React (Vite), and MySQL, this project integrates real-time features, intelligent automation, and an intuitive user interface to enhance both staff productivity and customer experience.
 
+------------------------------------------------------------------------
+
 🚀 Tech Stack
 Frontend: React (Vite), HTML5, CSS3, JavaScript, Axios
 Backend: Spring Boot (Java), Spring Security, JPA/Hibernate, RESTful APIs
 Database: MySQL
 Tools & Others: Postman, Maven, JWT Authentication, Email Service, WebSocket (for live updates)
+
+------------------------------------------------------------------------
 
 ⚙️ Features
 🔑 Authentication & User Roles
@@ -16,6 +20,8 @@ Separate access levels: Admin, Manager, Waiter/Staff, and Customer
 
 Role-based dashboards and API access control
 
+------------------------------------------------------------------------
+
 🪑 Table & Reservation Management
 Add, edit, and delete restaurant tables
 
@@ -24,6 +30,8 @@ Real-time table occupancy tracking
 QR-code–based table identification for instant order linking
 
 Reservation scheduling with time slots and auto-cancellation for no-shows
+
+------------------------------------------------------------------------
 
 🍔 Menu & Item Management
 Dynamic CRUD operations for menu items (add/edit/delete)
@@ -36,6 +44,8 @@ Availability toggle (in-stock/out-of-stock)
 
 Auto-update in customer view when the admin modifies items
 
+------------------------------------------------------------------------
+
 🧾 Order Management
 Digital table ordering system for dine-in, takeaway, and online modes
 
@@ -47,6 +57,8 @@ Split billing option for group orders
 
 Order status tracking: Placed → In Progress → Ready → Served
 
+------------------------------------------------------------------------
+
 💳 Billing & Payment
 Automated bill generation after order completion
 
@@ -55,6 +67,8 @@ Tax and discount calculations
 Support for cash, card, and online payments (fake gateway simulation)
 
 Printable and emailed invoice with restaurant logo
+
+------------------------------------------------------------------------
 
 📊 Admin Dashboard
 Overview of daily revenue, total orders, and active tables
@@ -65,12 +79,16 @@ Manage staff accounts and view performance logs
 
 Inventory tracking module that updates based on orders served
 
+------------------------------------------------------------------------
+
 📦 Inventory & Stock Management
 Track ingredient stock levels with auto-decrement after serving
 
 Low-stock alerts via email
 
 Supplier management with contact history
+
+------------------------------------------------------------------------
 
 👥 Customer Interaction
 Customer portal for browsing menu, placing orders, and tracking
@@ -81,12 +99,16 @@ Email confirmation and digital receipt
 
 Reservation reminders via email
 
+------------------------------------------------------------------------
+
 📬 Notifications & Reports
 Real-time notifications (new order, low stock, reservation updates)
 
 PDF report generation for sales summary and inventory logs
 
 Weekly email summaries to admin
+
+------------------------------------------------------------------------
 
 🧠 Smart/Unique Integrations
 AI-based dish suggestion (recommend items based on past orders)
@@ -99,6 +121,8 @@ Dynamic role management (Admin can create custom role permissions)
 
 Real-time activity logs panel with WebSocket streaming
 
+------------------------------------------------------------------------
+
 🧩 System Architecture
 text
 Frontend (React + Vite)
@@ -108,9 +132,13 @@ Backend (Spring Boot)
 Database (MySQL)
 Includes WebSocket server for live updates and JWT middleware for authentication.
 
+------------------------------------------------------------------------
+
 🧪 API Testing
 All backend endpoints tested with Postman and documented for integration testing.
 Includes endpoints for authentication, users, tables, menu, orders, and billing.
+
+------------------------------------------------------------------------
 
 🧰 Setup Instructions
 Clone the repository
