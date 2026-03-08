@@ -128,9 +128,44 @@ cd frontend
 npm install
 npm run dev
 
+----------------------------------------------------------------------------
+
 Access the app at ( https://smart-restaurant-frontend-gray.vercel.app )
 
-🧑‍💻 Author
+Credentials for logging in into Sample Dashboards :-
+
+Owner :
+Code : RTD3183
+Role : Owner
+Username : RTD_Owner
+Password : Password123
+
+Inventory:
+Code : RTD3183
+Role : Inventory
+Username : RTD_Inventory
+Password : Password123
+
+Accountant:
+Code : RTD3183
+Role : Accountant
+Username : RTD_Accountant
+Password : Password123
+
+Chef:
+Code : RTD3183
+Role : Chef
+Username : RTD_Chef
+Password : Password123
+
+Waiter:
+Code : RTD3183
+Role : Waiter
+Username : RTD_Waiter
+Password : Password123
+
+-----------------------------------------------
+
 Team - RTD Techies
 Full-Stack Developer | Hyderabad, Telangana, IN
 📧 dhanushpaidi9@gmail.com
