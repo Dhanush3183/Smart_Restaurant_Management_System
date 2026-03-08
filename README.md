@@ -9,6 +9,7 @@ Frontend: React (Vite), HTML5, CSS3, JavaScript, Axios
 Backend: Spring Boot (Java), Spring Security, JPA/Hibernate, RESTful APIs
 Database: MySQL
 Tools & Others: Postman, Maven, JWT Authentication, Email Service, WebSocket (for live updates)
+Deployment Platforms : Vercel (Frontend), Render (Backend), Railway (MySQL DB)
 
 ------------------------------------------------------------------------
 
