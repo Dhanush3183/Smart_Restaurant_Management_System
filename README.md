@@ -1,6 +1,6 @@
 🍽️ Smart Restaurant Management System
 An advanced full-stack web application designed to streamline restaurant operations — from order management to billing — using modern technologies.
-Built with Spring Boot, React (Vite), and MySQL, this project integrates real-time features, intelligent automation, and an intuitive user interface to enhance both staff productivity and customer experience.
+Built with Spring Boot, React (Vite), and MySQL, this project integrates real-time features, intelligent automation, and an intuitive user interface to enhance both staff productivity and customer experience. The system is fully deployed and accessible online, ensuring seamless availability for both staff and customers.
 
 ------------------------------------------------------------------------
 
